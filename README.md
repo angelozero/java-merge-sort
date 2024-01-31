@@ -1,2 +1,1 @@
-# java-merge-sort
-Merge Sort in Java
+# Merge Sort in Java
